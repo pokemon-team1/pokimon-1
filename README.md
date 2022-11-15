@@ -1,1 +1,2 @@
 # pokimon
+npm install boutsrap
