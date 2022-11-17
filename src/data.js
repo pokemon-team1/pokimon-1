@@ -2,7 +2,7 @@ export const data =[
     {
         id: "id1",
         name: "arbok",
-        imageUrl: "/pokemon images/arbok.png",
+        imageUrl: "https://assets.pokemon.com/assets/cms2/img/pokedex/full//005.png",
         desc: "This is Pokemon arbok",
         Height : "200 cm",
         Weight: "100 kg",
@@ -19,7 +19,7 @@ export const data =[
     {
         id: "id2",
         name: "arcanine",
-        imageUrl: "/pokemon images/arcanine.png",
+        imageUrl: "https://assets.pokemon.com/assets/cms2/img/pokedex/full//071.png",
         desc: "This is Pokemon arcanine",
         Height : "210 cm",
         Weight: "110 kg",
@@ -35,7 +35,7 @@ export const data =[
     {
         id: "id3",
         name: "blastoise",
-        imageUrl: "/pokemon images/blastoise.png",
+        imageUrl: "https://assets.pokemon.com/assets/cms2/img/pokedex/full//105.png",
         desc: "This is Pokemon blastoise",
         Height : "220 cm",
         Weight: "120 kg",
@@ -51,7 +51,7 @@ export const data =[
     {
         id: "id4",
         name: "bulbasaur",
-        imageUrl: "/pokemon images/bulbasaur.png",
+        imageUrl: "https://assets.pokemon.com/assets/cms2/img/pokedex/full//141.png",
         desc: "This is Pokemon bulbasaur",
         Height : "120 cm",
         Weight: "140 kg",
@@ -67,7 +67,7 @@ export const data =[
     {
         id: "id5",
         name: "charmander",
-        imageUrl: "/pokemon images/charmander.png",
+        imageUrl: "https://assets.pokemon.com/assets/cms2/img/pokedex/full//322.png",
         desc: "This is Pokemon charmander",
         Height : "66 cm",
         Weight: "135 kg",
@@ -83,7 +83,7 @@ export const data =[
     {
         id: "id6",
         name: "charmeleon",
-        imageUrl: "/pokemon images/charmeleon.png",
+        imageUrl: "https://assets.pokemon.com/assets/cms2/img/pokedex/full//337.png",
         desc: "This is Pokemon charmeleon",
         Height : "100 cm",
         Weight: "113 kg",
@@ -99,7 +99,7 @@ export const data =[
     {
         id: "id7",
         name: "diglett",
-        imageUrl: "/pokemon images/diglett.png",
+        imageUrl: "https://assets.pokemon.com/assets/cms2/img/pokedex/full//637.png",
         desc: "This is Pokemon diglett",
         Height : "118 cm",
         Weight: "6 kg",
@@ -115,7 +115,7 @@ export const data =[
     {
         id: "id8",
         name: "dugtrio",
-        imageUrl: "/pokemon images/dugtrio.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon dugtrio",
         Height : "66 cm",
         Weight: "123 kg",
@@ -131,7 +131,7 @@ export const data =[
     {
         id: "id9",
         name: "ekans",
-        imageUrl: "/pokemon images/ekans.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon ekans",
         Height : "66 cm",
         Weight: "134 kg",
@@ -147,7 +147,7 @@ export const data =[
     {
         id: "id10",
         name: "exeggutor",
-        imageUrl: "/pokemon images/exeggutor.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon exeggutor",
         Height : "123 cm",
         Weight: "165 kg",
@@ -163,7 +163,7 @@ export const data =[
     {
         id: "id11",
         name: "flareon",
-        imageUrl: "/pokemon images/flareon.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon flareon",
         Height : "110 cm",
         Weight: "159 kg",
@@ -179,7 +179,7 @@ export const data =[
     {
         id: "id12",
         name: "frarow",
-        imageUrl: "/pokemon images/frarow.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon frarow",
         Height : "123 cm",
         Weight: "99 kg",
@@ -195,7 +195,7 @@ export const data =[
     {
         id: "id13",
         name: "gengar",
-        imageUrl: "/pokemon images/gengar.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon gengar",
         Height : "75 cm",
         Weight: "66 kg",
@@ -211,7 +211,7 @@ export const data =[
     {
         id: "id14",
         name: "golduck",
-        imageUrl: "/pokemon images/golduck.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon golduck",
         Height : "144 cm",
         Weight: "129 kg",
@@ -227,7 +227,7 @@ export const data =[
     {
         id: "id15",
         name: "hoppip",
-        imageUrl: "/pokemon images/hoppip.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon hoppip",
         Height : "145 cm",
         Weight: "115 kg",
@@ -243,7 +243,7 @@ export const data =[
     {
         id: "id16",
         name: "hypno",
-        imageUrl: "/pokemon images/hypno.png",
+        imageUrl: "../public/image/arbok.png",
         desc: "This is Pokemon hypno",
         Height : "166 cm",
         Weight: "185 kg",
