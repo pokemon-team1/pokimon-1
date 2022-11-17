@@ -1,7 +1,14 @@
-const Nav=()=>{
+
+import Audio from "./Audio";
+function Nav(){
+
+ 
+
+
+
     return(
         <div class="navbar">
-        <a class="active" href="#"><i class="fa fa-fw fa-heart"></i> Home</a>
+        <button onClick={Audio}> PoKéMoN</button>
       </div>
       )
 }

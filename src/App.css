@@ -1,32 +1,48 @@
 *{
-background-color: rgb(205, 224, 241);    
+  background-color: aqua;
 }
-.Menu{text-decoration:none;
-text-align:justify;
-justify-items: center;
+
+.Menu .list{
+display: flex;
+  font-size: 30px;
+  line-height: 10px;
+  margin: 25px 0px ;
+  text-decoration:overline;
+  justify-content: space-around;
+  color: rgb(27, 68, 105);
+  
+  }
+.body{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
-Video{
-    width: 25%;
+.Menu{
+  flex-basis: 50%;
+  min-width: 300px;
 }
 .favorite{
    display: flex;
+   padding-top: 40px;
    
 }
 .favorite {
-    background-color: #333;
+    background-color:transparent;
     overflow: auto;
     white-space: nowrap;
   }
-.favorite Ima {
+.favorite .card{
     display: inline-block;
-    color: rgb(61, 4, 4);
+    color: rgb(57, 7, 117);
     text-align: center;
     padding: 14px;
     text-decoration: none;
+    width: 210px;
   }
   
-  .favorite Ima:hover {
-    background-color: rgb(93, 13, 13);
+  .favorite .card:hover {
+    background-color: rgb(50, 6, 181);
   }
   .navbar {
     width: 100%;

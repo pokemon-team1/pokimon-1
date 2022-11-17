@@ -1,5 +1,6 @@
 import {data} from './data.js'
 
+
 const Ima=()=>{
     return (
     data.map((card)=>
@@ -7,7 +8,7 @@ const Ima=()=>{
        <div class="card" >
          <img src={card.imageUrl} class="card-img-top" alt="card"/>
            <div class="card-body">
-             <a href={card.name} class="btn btn-primary">Whatch Video</a>
+             <a  class="btn btn-primary">Select</a>
            </div>
       </div>
    </div>

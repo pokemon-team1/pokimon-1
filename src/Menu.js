@@ -5,7 +5,7 @@ const List =()=>{
     return ( data.map((list)=>
     <div>   
         
-        <a href={list.imageUrl}>{list.name}</a>
+        <a className="list" href={list.imageUrl}>{list.name}</a>
         
         
     </div>    
