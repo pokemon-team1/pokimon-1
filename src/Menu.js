@@ -1,12 +1,11 @@
 import { data } from "./data"
 
+function List (){
+   
 
-const List =()=>{
     return ( data.map((list)=>
-    <div>   
-        
-        <a className="list" href={list.imageUrl}>{list.name}</a>
-        
+    <div> 
+        < link className="list" href={list.imageUrl}>{list.name}</link>
         
     </div>    
     ))
