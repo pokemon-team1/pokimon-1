@@ -5,7 +5,7 @@ function List (){
 
     return ( data.map((list)=>
     <div> 
-        < link className="list" href={list.imageUrl}>{list.name}</link>
+        <a className="list" href={list.imageUrl}>{list.name}</a>
         
     </div>    
     ))
